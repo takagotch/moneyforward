@@ -5,7 +5,7 @@ https://biz.moneyforward.com/home?cti=a8x3yBRMY1VNU8Cwb6Xhdg
 
 https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/yoshiki.htm
 
-
+https://www.nta.go.jp/taxes/shiraberu/shinkoku/kakutei.htm
 
 #### freee
 https://secure.freee.co.jp/
