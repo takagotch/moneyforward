@@ -7,7 +7,7 @@ https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/yoshiki.htm
 
 https://www.nta.go.jp/taxes/shiraberu/shinkoku/kakutei.htm
 
-###### moneyforward clound
+###### moneyforward clound 会計
 https://erp.moneyforward.com/
 
 ---
