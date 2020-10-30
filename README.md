@@ -21,6 +21,14 @@ https://k.secure.freee.co.jp/personal/submission
 https://myaccount.yayoi-kk.co.jp/user/input?service_id=kakin&redirect_url=https%3A%2F%2Fstore.yayoi-kk.co.jp%2Fplan%3Fproduct_id%3Dkaikei&_ga=2.107331333.625236380.1586532609-974177662.1586532609&_gac=1.148587077.1586611157.CjwKCAjw1cX0BRBmEiwAy9tKHkuwWyEpO9ycWAui1zDQiATkZcWubCGlwn0Itzq1bLmqBNt5KHHEwBoCM-MQAvD_BwE
 
 ```.yml
+/* 
+会計
+https://accounting.moneyforward.com/home?cti=_QyqmlLNjBHtUMd80aKjrQ
+
+創業計画書　開業届　
+https://establish.moneyforward.com/user/myself
+
+*/
 
 - 開業届出書
 - 所得税　青色申告承認証書
