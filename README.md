@@ -13,7 +13,7 @@ https://establish.moneyforward.com/user/myself
 
 https://establish.moneyforward.com/
 
-######　事業者番号：8540-3962
+###### 事業者番号：8540-3962
 
 
 ---
