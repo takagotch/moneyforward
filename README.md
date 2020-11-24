@@ -9,9 +9,12 @@ https://moneyforward.com/
 https://erp.moneyforward.com/
 
 ### マネーフォワード会社設立
+https://establish.moneyforward.com/user/myself
+
 https://establish.moneyforward.com/
 
-######
+######　事業者番号：8540-3962
+
 
 ---
 ---
