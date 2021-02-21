@@ -72,7 +72,7 @@ https://establish.moneyforward.com/user/myself
 
 ```
 
-###### 大阪府市税
+###### 大阪府市税　電子決済サイト
 https://koukin.f-regi.com/fc/osaka_city/
 
 
